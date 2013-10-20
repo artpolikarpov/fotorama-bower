@@ -2,15 +2,15 @@
 
 This is packager, that allows you to simply install and maintain [Fotorama](http://fotorama.io/) via [Bower](http://bower.io/).
 
-## Set-up
+## Set up
 
-1. Install the package:
+Install the package:
 
     ```bash
     bower install fotorama
     ```
 
-2. Use it in HTML:
+Use it:
 
     ```html
     <!-- 1. Link to jQuery (1.8 or later), -->
