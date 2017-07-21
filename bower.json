@@ -8,7 +8,9 @@
   "description": "A simple, stunning, powerful jQuery gallery.",
   "main": [
     "fotorama.css",
-    "fotorama.js"
+    "fotorama.js",
+    "fotorama.png",
+    "fotorama@2x.png"
   ],
   "keywords": [
     "gallery",
